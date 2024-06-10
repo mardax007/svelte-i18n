@@ -14,7 +14,7 @@
   "license": "MIT",
   "description": "Internationalization library for Svelte",
   "author": "Christian Kaisermann <christian@kaisermann.me>",
-  "repository": "https://github.com/kaisermann/svelte-i18n",
+  "repository": "https://github.com/mardax/svelte-i18n",
   "keywords": [
     "svelte",
     "i18n",
